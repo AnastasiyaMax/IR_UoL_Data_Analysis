@@ -21,3 +21,7 @@ In this intermediate Python course, you will learn how to apply data science met
 ## Grading
 
 Final grade = 0.2 * average grade for home assignments + 0.2 * midterm + 0.2 class participation (quizzes, problem solving, attendance etc.) + 0.2 * project + 0.2 * final lab
+
+## Projects
+
+TBA. For now you can start forming into teams of 3 people and choosing a theme for you projects. You will have to find a dataset, perform EDA, run a few and validate a few models and present us your findings.
