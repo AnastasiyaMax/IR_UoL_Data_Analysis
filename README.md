@@ -24,4 +24,4 @@ Final grade = 0.2 * average grade for home assignments + 0.2 * midterm + 0.2 cla
 
 ## Projects
 
-TBA. For now you can start forming into teams of 3 people and choosing a theme for you projects. You will have to find a dataset, perform EDA, run and validate a few models and present us your findings.
+TBA. For now you can start forming into teams of 3 people and choosing a theme for you projects. You will have to find a dataset, perform EDA, run and validate a few models and present us with your findings.
